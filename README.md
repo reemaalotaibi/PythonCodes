@@ -1,6 +1,8 @@
 # PythonCodes
 This repository includes simple python projects
-Hang man game
+
+
+Hang man game:
 A brief explanation for how this works:
     1- the computer will choose a word at random from the word list. 
     2- the program will exclude words combined with dashes, -.

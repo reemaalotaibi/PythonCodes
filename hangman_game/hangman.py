@@ -136,7 +136,7 @@ while guess_is or mistakes_allowed > 0 :
         #the dashes will be replaced with the word's letters
         word_hashing = word_at_random
         print('You guessed the word!')
-        print('Congrats! YOU WON!')
+        print('Congrats, YOU WON!')
         
         break
  #if the player ran out of lives
